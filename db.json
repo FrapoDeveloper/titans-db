@@ -1,12 +1,12 @@
- {
- "Titanes" : [
+{
+  "Titanes" : [
     {
         "id" : 1,
         "img" : "https://i.pinimg.com/564x/24/09/d9/2409d98f7e0eb40e46b7dca7d574ceb7.jpg",
-        "name" : "Titan de Ataque",  
+        "name" : "Titán de Ataque",  
         "altura":"15m", 
-        "definition":"Tiene una condicion fisica superior al de los titanes ordinarios, posee el poder de endurecimiento, pero cuando es lastimado se regenera lento.",
-        "poder":3,
+        "definition":"Tiene una condición física superior a la de los titanes ordinarios, posee el poder de endurecimiento, pero cuando es lastimado se regenera lento.",
+        "poder":[1,2,3],
         "description":"Tiene una enorme habilidad y fortaleza física, pero tiene un modo “berseker” que puede ser activado en momentos críticos. Además, tiene la capacidad de compartir las memorias del pasado y futuro con los demás portadores de este poder titán, cambiando así el tiempo y sus acciones para obtener su mejor resultado."
 
     },
@@ -15,71 +15,71 @@
         
         "id" : 2,
         "img" : "https://i.pinimg.com/564x/cc/60/be/cc60be7a6a38eec8ee3a2e061ed1cf54.jpg",
-        "name" : "Titan hembra",
+        "name" : "Titán hembra",
         "altura": "14m",
-        "definition": "Especialista en batallas cuerpo a cuerpo, es capaz de endurecer cualquier parte de su cuerpo, su regenacion es acelerada y atrea a titanes ordinarios.",
-        "poder": 4,
-        "description":"Posee una fuerza y una velocidad inusual, capaz de correr largas distancias con una gran rapidez durante un largo periodo de tiempo. Una de sus habilidades es él de poder llamar a otros titanes de alrededor con su rugido, además puede regenerarse voluntariamente las partes dañadas de su cuerpo a gran velocidad."
+        "definition": "Especialista en batallas cuerpo a cuerpo, es capaz de endurecer cualquier parte de su cuerpo, su regenación es acelerada y atrae a titanes ordinarios.",
+        "poder": [1,2,3,4],
+        "description":"Posee una fuerza y una velocidad inusual, capaz de correr largas distancias con una gran rapidez durante un largo periodo de tiempo. Una de sus habilidades es el de poder llamar a otros titanes de alrededor con su rugido, además puede regenerarse voluntariamente las partes dañadas de su cuerpo a gran velocidad."
       
     },
     {
         "id" : 3,
         "img" : "https://i.pinimg.com/564x/ea/5c/e1/ea5ce1d6d348160ce11bb5bf47c3f2df.jpg",
-        "name" : "Titan colosal",
+        "name" : "Titán colosal",
         "altura": "60m",
-        "definition": "Es el titan mas alto que existe, ademas es el titan con mas fuerza fisica, sin embargo carece de rapidez, y requiere mucha energia para su ataque de vapor.",
-        "poder": 3,
-        "description":"Es el titán más grande y fuerte de todos, pero es el más lento también. Puede lanzar enormes cantidades de vapor caliente que consumen su cuerpo poco a poco y también tiene una fuerza descomunal. Es un peligro para toda la humanidad ya que si todos los titanes que estan dentro de los muro se manifiestan, seria el fin."
+        "definition": "Es el titán mas alto que existe, ademas es el titán con más fuerza física, sin embargo carece de rapidez, y requiere mucha energía para su ataque de vapor.",
+        "poder": [1,2,3],
+        "description":"Es el titán más grande y fuerte de todos, pero es el más lento también. Puede lanzar enormes cantidades de vapor caliente que consumen su cuerpo poco a poco y también tiene una fuerza descomunal. Es un peligro para toda la humanidad ya que si todos los titanes que estan dentro de los muros se manifiestan, sería el fin."
 
     },
     {
         "id" : 4,
         "img" : "https://i.pinimg.com/564x/44/64/84/4464845a95422c4c24024c197097cccf.jpg",
-        "name": "Titan acorazado",
+        "name": "Titán acorazado",
         "altura":"15m",
-       "definition":"Es un titan con una piel muy potente, ademas posee una poderosa armadura y tiene las articulaciones sin coraza lo que a veces lo deja un poco vulnerable.",
-        "poder": 5,
-        "description":"Se reconoce porque la piel es muy gruesa y está protegida por un blindaje enorme, que sirve para repeler ataques enemigos o funcionar como un ariete vivo. A pesar de ello, sus articulaciones son las partes vulnerables de su cuerpo ya que no posee coraza y con las Lanzas Truenos del Cuerpo de Exploración pudo derrotarlo."
+       "definition":"Es un titán con una piel muy potente, ademas posee una poderosa armadura y tiene las articulaciones sin coraza lo que a veces lo deja un poco vulnerable.",
+        "poder": [1,2,3,4,5],
+        "description":"Se reconoce porque la piel es muy gruesa y está protegida por un blindaje enorme, que sirve para repeler ataques enemigos o funcionar como un ariete vivo. A pesar de ello, sus articulaciones son las partes vulnerables de su cuerpo ya que no posee coraza y con los Lanza Truenos del Cuerpo de Exploración pudo derrotarlo."
 
     },
 
     {
         "id" : 5,
         "img": "https://i.pinimg.com/564x/71/a3/1d/71a31dc503dbae1f71fb9a2625818c97.jpg",
-        "name":"Titan bestia",
+        "name":"Titán bestia",
         "altura": "30m",
-        "definition":"Se considera el titan con mas inteligencia y fortaleza fisica de todos los titanes cambiantes, esconde una habilidad espantosa que aun no ha sido revelada.",
-        "poder": 6,
-        "description":"Se reconoce porque la piel es muy gruesa y está protegida por un blindaje enorme, que sirve para repeler ataques enemigos o funcionar como un ariete vivo. A pesar de ello, sus articulaciones son las partes vulnerables de su cuerpo ya que no posee coraza y con las Lanzas Truenos del Cuerpo de Exploración pudo derrotarlo."
+        "definition":"Se considera el titán con más inteligencia y fortaleza fisica de todos los titanes cambiantes, esconde una habilidad espantosa que aún no ha sido revelada.",
+        "poder": [1,2,3,4,5,6],
+        "description":"Este titan posee mucha inteligencia, poder y permite la creación de otros titanes utilizando humanos al inyectarles fluido de su médula espinal. La transformación solo ocurre si el Titán Bestia grita y puede controlarlos a voluntad. Puede endurecer su cuerpo poco a poco y también cuenta con una fuerza descomunal."
 
     },
     {
         "id": 6,
         "img":"https://i.pinimg.com/564x/7b/95/d1/7b95d1d62286b48eac32eec1fc5313c3.jpg",
-        "name":"Titan Mandibula",
+        "name":"Titán Mandíbula",
         "altura":"5m",
-        "definition":"Considerado el titan mas pequeño, pero tiene una gran velocidad, unas garras muy afiladas y una mandibula extremadamente poderosa lo hacen muy peligroso.",
-        "poder": 2,
-        "description":"El portador consigue una poderosisima mandíbula que puede romper prácticamente todo, una gran agilidad, velocidad y dientes y garras afilados son sus principales características. Al igual que el Titán Carguero, es solo un poco más grande que los titanes normales y es superado en fuerza por otros cambiantes."
+        "definition":"Considerado el titán más pequeño, pero tiene una gran velocidad, unas garras muy afiladas y una mandibula extremadamente poderosa que lo hacen muy peligroso.",
+        "poder": [1,2],
+        "description":"El portador consigue una poderosísima mandíbula que puede romper prácticamente todo, una gran agilidad, velocidad y dientes y garras afilados son sus principales características. Al igual que el Titán Carguero, es solo un poco más grande que los titanes normales y es superado en fuerza por otros cambiantes."
 
     },
     {
         "id":7,
         "img":"https://i.pinimg.com/originals/0b/f4/e8/0bf4e8815ea965c61a5eba599298a00b.png",
-        "name":"Titan carguero",
+        "name":"Titán carguero",
         "altura":"4m",
-        "definition":"Este titan es uno de los mas misteriosos, posee una resistencia y rapidez formidable de echo puede transportar cargas pesadas sin descansar varios dias.",
-        "poder": 2,
-        "description":"Es uno de los más rápidos, pero su principal habilidad es la resistencia. Puede permanecer transformado mucho tiempo y es utilizado para cargar suministros o artillería. También puede hablar en su forma titan, pero no puede hacer más allá de eso y es solo un poco más grande que los otros titanes normales."
+        "description":"Este titan es uno de los más misteriosos, posee una resistencia y rapidez formidable, de hecho puede transportar cargas pesadas sin descansar varios días.",
+        "poder": [1,2],
+        "description":"Es uno de los más rápidos, pero su principal habilidad es la resistencia. Puede permanecer transformado mucho tiempo y es utilizado para cargar suministros o artillería. También puede hablar en su forma titán, pero no puede hacer más allá de eso y es solo un poco más grande que los otros titanes normales."
         
     },
     {
         "id" :8,
         "img":"https://i.pinimg.com/564x/1d/d2/2e/1dd22eddf940b8b7f28cce97c7e48dea.jpg",
-        "name":"Titan martillo de guerra",
+        "name":"Titán martillo de guerra",
         "altura":"desconocida",
-        "definition":"Aparentemente posee la capacidad de usar el endurecimiento para crear armas muy poderosas,  aun se desconocen varios poderes ocultos de este titan.",
-        "poder": 7,
+        "definition":"Aparentemente posee la capacidad de usar el endurecimiento para crear armas muy poderosas,  aún se desconocen varios poderes ocultos de este titán.",
+        "poder": [1,2,3,4,5,6,7],
         "description":"El Titán Martillo de Guerra tiene una capacidad de endurecimiento mayor a cualquier otro, con el que crea armas de corto y largo alcance. Su poder más fuerte es que su portador puede controlar el titán a distancia con un cordón de corto alcance, lo cuál lo hace casi invencible si no encuentran a su usuario."
         
 
@@ -87,15 +87,14 @@
     {
         "id" : 9,
         "img" : "https://pbs.twimg.com/media/DljkIFhUUAAoFas.jpg",
-        "name": "Titan fundador ",
+        "name": "Titán fundador ",
         "altura":"17m",
-        "definition":"Es el titan mas importante y poderoso ya que controla la coordenada, solo pueden tener el poder maximo los la familia real Friz, borrar recuerdos.",
-        "poder": 8,
-        "description":"Titan más poderoso por poseer “La Coordenada”, capacidad de dar órdenes a todos los titanes cambiantes o puros. Acceder a los caminos invisibles, una dimensión alterna que conecta a toda la gente de Ymir y le permite comunicarse con todos ellos si lo desea. Puede crear titanes de la nada como lo fueron los Titanes Colosales de las murallas."
+        "description":"Es el titan mas importante y poderoso ya que controla la coordenada, solo pueden tener el poder maximo los la familia real Friz, borrar recuerdos.",
+        "poder": [1,2,3,4,5,6,7,8],
+        "description":"Titán más poderoso por poseer “La Coordenada”, capacidad de dar órdenes a todos los titanes cambiantes o puros. Acceder a los caminos invisibles, una dimensión alterna que conecta a toda la gente de Ymir y le permite comunicarse con todos ellos si lo desea. Puede crear titanes de la nada como lo fueron los Titanes Colosales de las murallas."
         
     }
 
     ]
- 
  
  }
