@@ -1,7 +1,7 @@
  {
  "Titanes" : [
     {
-        "key" : 1,
+        "id" : 1,
         "img" : "https://i.pinimg.com/564x/24/09/d9/2409d98f7e0eb40e46b7dca7d574ceb7.jpg",
         "name" : "Titan de Ataque",  
         "altura":"15m", 
@@ -13,7 +13,7 @@
 
     {
         
-        "key" : 2,
+        "id" : 2,
         "img" : "https://i.pinimg.com/564x/cc/60/be/cc60be7a6a38eec8ee3a2e061ed1cf54.jpg",
         "name" : "Titan hembra",
         "altura": "14m",
@@ -23,7 +23,7 @@
       
     },
     {
-        "key" : 3,
+        "id" : 3,
         "img" : "https://i.pinimg.com/564x/ea/5c/e1/ea5ce1d6d348160ce11bb5bf47c3f2df.jpg",
         "name" : "Titan colosal",
         "altura": "60m",
@@ -33,7 +33,7 @@
 
     },
     {
-        "key" : 4,
+        "id" : 4,
         "img" : "https://i.pinimg.com/564x/44/64/84/4464845a95422c4c24024c197097cccf.jpg",
         "name": "Titan acorazado",
         "altura":"15m",
@@ -44,7 +44,7 @@
     },
 
     {
-        "key" : 5,
+        "id" : 5,
         "img": "https://i.pinimg.com/564x/71/a3/1d/71a31dc503dbae1f71fb9a2625818c97.jpg",
         "name":"Titan bestia",
         "altura": "30m",
@@ -54,7 +54,7 @@
 
     },
     {
-        "key": 6,
+        "id": 6,
         "img":"https://i.pinimg.com/564x/7b/95/d1/7b95d1d62286b48eac32eec1fc5313c3.jpg",
         "name":"Titan Mandibula",
         "altura":"5m",
@@ -64,7 +64,7 @@
 
     },
     {
-        "key":7,
+        "id":7,
         "img":"https://i.pinimg.com/originals/0b/f4/e8/0bf4e8815ea965c61a5eba599298a00b.png",
         "name":"Titan carguero",
         "altura":"4m",
@@ -74,7 +74,7 @@
         
     },
     {
-        "key" :8,
+        "id" :8,
         "img":"https://i.pinimg.com/564x/1d/d2/2e/1dd22eddf940b8b7f28cce97c7e48dea.jpg",
         "name":"Titan martillo de guerra",
         "altura":"desconocida",
@@ -85,7 +85,7 @@
 
     },
     {
-        "key" : 9,
+        "id" : 9,
         "img" : "https://pbs.twimg.com/media/DljkIFhUUAAoFas.jpg",
         "name": "Titan fundador ",
         "altura":"17m",
