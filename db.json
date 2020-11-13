@@ -68,7 +68,7 @@
         "img":"https://i.pinimg.com/originals/0b/f4/e8/0bf4e8815ea965c61a5eba599298a00b.png",
         "name":"Titán carguero",
         "altura":"4m",
-        "description":"Este titan es uno de los más misteriosos, posee una resistencia y rapidez formidable, de hecho puede transportar cargas pesadas sin descansar varios días.",
+        "definition":"Este titan es uno de los más misteriosos, posee una resistencia y rapidez formidable, de hecho puede transportar cargas pesadas sin descansar varios días.",
         "poder": [1,2],
         "description":"Es uno de los más rápidos, pero su principal habilidad es la resistencia. Puede permanecer transformado mucho tiempo y es utilizado para cargar suministros o artillería. También puede hablar en su forma titán, pero no puede hacer más allá de eso y es solo un poco más grande que los otros titanes normales."
         
@@ -89,7 +89,7 @@
         "img" : "https://pbs.twimg.com/media/DljkIFhUUAAoFas.jpg",
         "name": "Titán fundador ",
         "altura":"17m",
-        "description":"Es el titan mas importante y poderoso ya que controla la coordenada, solo pueden tener el poder maximo los la familia real Friz, borrar recuerdos.",
+        "definition":"Es el titan mas importante y poderoso ya que controla la coordenada, solo pueden tener el poder maximo los la familia real Friz, borrar recuerdos.",
         "poder": [1,2,3,4,5,6,7,8],
         "description":"Titán más poderoso por poseer “La Coordenada”, capacidad de dar órdenes a todos los titanes cambiantes o puros. Acceder a los caminos invisibles, una dimensión alterna que conecta a toda la gente de Ymir y le permite comunicarse con todos ellos si lo desea. Puede crear titanes de la nada como lo fueron los Titanes Colosales de las murallas."
         
